@@ -17,6 +17,7 @@ from os import path
 #--- Globals ----------------------------------------------
 PLUGINS = """
 ack.vim https://github.com/mileszs/ack.vim
+auto-pairs https://github.com/jiangmiao/auto-pairs
 bufexplorer https://github.com/corntrace/bufexplorer
 ctrlp.vim https://github.com/ctrlpvim/ctrlp.vim
 mayansmoke https://github.com/vim-scripts/mayansmoke
